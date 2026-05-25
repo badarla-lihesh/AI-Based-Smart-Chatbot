@@ -1,0 +1,151 @@
+{
+  "greeting": {
+    "keywords": ["hello", "hi", "hey"],
+    "responses": ["Hello!", "Hi there!", "Hey!"]
+  },
+
+  "bye": {
+    "keywords": ["bye", "goodbye"],
+    "responses": ["Goodbye!", "See you again!"]
+  },
+
+  "help": {
+    "keywords": ["help", "support"],
+    "responses": ["I can help you with chatbot related questions."]
+  },
+
+  "project": {
+    "keywords": ["project", "projects"],
+    "responses": ["This is an AI-based smart chatbot project."]
+  },
+
+  "python": {
+    "keywords": ["python"],
+    "responses": ["Python is a powerful programming language."]
+  },
+
+  "html": {
+    "keywords": ["html"],
+    "responses": ["HTML is used to create web pages."]
+  },
+
+  "css": {
+    "keywords": ["css"],
+    "responses": ["CSS is used for styling web pages."]
+  },
+
+  "javascript": {
+    "keywords": ["javascript", "js"],
+    "responses": ["JavaScript adds interactivity to websites."]
+  },
+
+  "flask": {
+    "keywords": ["flask"],
+    "responses": ["Flask is a Python web framework."]
+  },
+
+  "ai": {
+    "keywords": ["ai", "artificial intelligence"],
+    "responses": ["AI helps systems perform intelligent tasks."]
+  },
+
+  "ml": {
+    "keywords": ["machine learning", "ml"],
+    "responses": ["Machine Learning helps systems learn from data."]
+  },
+
+  "nlp": {
+    "keywords": ["nlp"],
+    "responses": ["NLP stands for Natural Language Processing."]
+  },
+
+  "vlsi": {
+    "keywords": ["vlsi"],
+    "responses": ["VLSI stands for Very Large Scale Integration."]
+  },
+
+  "dft": {
+    "keywords": ["dft"],
+    "responses": ["DFT means Design for Testability."]
+  },
+
+  "ev": {
+    "keywords": ["ev", "electric vehicle"],
+    "responses": ["Electric Vehicles use electric power instead of fuel."]
+  },
+
+  "battery": {
+    "keywords": ["battery"],
+    "responses": ["Battery systems are important in EV technology."]
+  },
+
+  "frontend": {
+    "keywords": ["frontend"],
+    "responses": ["Frontend development focuses on user interfaces."]
+  },
+
+  "backend": {
+    "keywords": ["backend"],
+    "responses": ["Backend development handles server-side logic."]
+  },
+
+  "database": {
+    "keywords": ["database", "mysql"],
+    "responses": ["Databases help store and manage data."]
+  },
+
+  "coding": {
+    "keywords": ["coding", "programming"],
+    "responses": ["Programming helps solve real-world problems."]
+  },
+
+  "data": {
+    "keywords": ["data"],
+    "responses": ["Data analysis is important in AI systems."]
+  },
+
+  "research": {
+    "keywords": ["research"],
+    "responses": ["Research helps develop innovative technologies."]
+  },
+   
+  "student": {
+    "keywords": ["student"],
+    "responses": ["Students can improve skills through projects."]
+  },
+
+  "technology": {
+    "keywords": ["technology"],
+    "responses": ["Technology is continuously evolving."]
+  },
+
+  "software": {
+    "keywords": ["software"],
+    "responses": ["Software development builds useful applications."]
+  },
+
+  "hardware": {
+    "keywords": ["hardware"],
+    "responses": ["Hardware works together with software systems."]
+  },
+
+  "github": {
+    "keywords": ["github", "git hub"],
+    "responses": ["GitHub is used for project hosting and version control."]
+  },
+
+  "resume": {
+    "keywords": ["resume"],
+    "responses": ["A good resume should be clean and project-oriented."]
+  },
+
+  "future": {
+    "keywords": ["future"],
+    "responses": ["AI and intelligent systems are shaping the future."]
+  },
+
+  "thanks": {
+    "keywords": ["thanks", "thank you"],
+    "responses": ["You're welcome!", "Happy to help!"]
+  }
+}
