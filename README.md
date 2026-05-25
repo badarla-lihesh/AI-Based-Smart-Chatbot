@@ -26,8 +26,8 @@ AI-Based-Smart-Chatbot/
 
 ## How to Run
 1. Install Flask: pip install flask  
-2. Run the application: python app.py  
-3. Open browser and visit: http://127.0.0.1:5000  
+2. Run the project locally: python app.py  
+3. Open in browser: http://127.0.0.1:5000
 
 ## Working
 User enters a message → chatbot checks keywords from intents.json → selects matching response → displays reply in chat interface.
