@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import json
 import random
 
-app = Flask(__name__)
+app = Flask(__name__) 
 
 # Load intents (DO NOT CHANGE FILE)
 with open("intents.json", "r") as file:
@@ -10,7 +10,7 @@ with open("intents.json", "r") as file:
 
 
 def get_response(user_input):
-    user_input = user_input.lower()
+    user_input = user_input.lower() 
 
     best_intent = None
     best_score = 0
