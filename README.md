@@ -1,36 +1,90 @@
 # AI-Based Smart Chatbot
 
-AI-Based Smart Chatbot is a simple web-based chatbot application built using Python and Flask. It allows users to interact through a web interface and receive responses based on keyword matching logic. The project demonstrates basic chatbot development using rule-based NLP concepts along with frontend and backend integration.
+## About
+AI-Based Smart Chatbot is a web-based chatbot application built using Python and Flask. It uses a rule-based keyword matching system to understand user input and respond with appropriate replies. The project demonstrates full-stack development using Flask for backend and HTML, CSS, JavaScript for frontend integration.
 
-## Features
-- Simple and interactive chat interface  
-- Keyword-based response system  
-- Flask backend integration  
-- Frontend built using HTML, CSS, and JavaScript  
-- JSON-based intent storage  
-- Lightweight and easy to run locally  
+---
 
 ## Technologies Used
-Python, Flask, HTML, CSS, JavaScript, JSON  
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Python
+- Flask
+
+---
+
+## Libraries Used
+- Flask
+- JSON (for intent data handling)
+- Random (for selecting responses)
+
+---
 
 ## Project Structure
-AI-Based-Smart-Chatbot/  
-├── app.py  
-├── intents.json  
-├── templates/  
-│   └── index.html  
-├── static/  
-│   ├── style.css  
-│   └── script.js  
-└── README.md  
+AI-Based-Smart-Chatbot/
+├── app.py
+├── intents.json
+├── README.md
+├── templates/
+│   └── index.html
+├── static/
+│   ├── style.css
+│   └── script.js
+├── demo_images/
+│   ├── home_page.png
+│   ├── chat_input.png
+│   └── chat_response.png
+
+---
 
 ## How to Run
-1. Install Flask: pip install flask  
-2. Run the project locally: python app.py  
-3. Open in browser: http://127.0.0.1:5000
+
+1. Install Flask:
+   pip install flask
+
+2. Run the application:
+   python app.py
+
+3. Open browser and use the application locally
+
+---
 
 ## Working
-User enters a message → chatbot checks keywords from intents.json → selects matching response → displays reply in chat interface.
+User enters a message → chatbot reads keywords from intents.json → matches intent → selects response → displays output in chat interface.
 
-## About Project
-This project was developed to understand how a chatbot works using Python, Flask, and basic rule-based logic. It focuses on frontend and backend integration and simple conversational flow.
+---
+
+## Screenshots
+
+### Home Page
+![Home Page](demo_images/home_page.png)
+
+### Chat Input
+![Chat Input](demo_images/chat_input.png)
+
+### Bot Response
+![Bot Response](demo_images/chat_response.png)
+
+---
+
+## Future Improvements
+- Integrate AI/ML based NLP model
+- Improve UI design with modern chat interface
+- Add database for chat history storage
+- Deploy application for public access
+- Add voice-based interaction system
+
+---
+
+## Project Status
+Currently running in local environment using Flask. Deployment is not included as the project is intended for local demonstration.
+
+---
+
+## Author
+Badarla Lihesh
