@@ -1,9 +1,7 @@
 # AI-Based Smart Chatbot
 
 ## About
-AI-Based Smart Chatbot is a web-based chatbot application built using Python and Flask. It uses a rule-based keyword matching system to understand user input and respond with appropriate replies. The project demonstrates full-stack development using Flask for backend and HTML, CSS, JavaScript for frontend integration.
-
-This project demonstrates basic Natural Language Processing concepts using a rule-based approach for intent recognition and response generation.
+AI-Based Smart Chatbot is a web-based chatbot application built using Python and Flask. It uses a rule-based keyword matching system to understand user input and respond with appropriate replies. The project demonstrates full-stack development using Flask for backend and HTML, CSS, JavaScript for frontend integration.This project demonstrates basic Natural Language Processing concepts using a rule-based approach for intent recognition and response generation.
 
 ---
 
@@ -74,4 +72,4 @@ Currently running in local environment using Flask. Deployment is not included a
 ---
 
 ## Author
-Developed by Badarla Lihesh
+Badarla Lihesh
