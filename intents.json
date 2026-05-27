@@ -1,7 +1,11 @@
 {
   "greeting": {
-    "keywords": ["hello", "hi", "hey"],
-    "responses": ["Hello!", "Hi there!", "Hey!"]
+  "keywords": ["hello", "hi", "hey"],
+  "responses": [
+    "Hello! How can I help you?",
+    "Hi there! What can I do for you?",
+    "Hey! Nice to meet you. How can I assist you today?"
+  ]
   },
 
   "bye": {
